@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741059753100",
+    "project_id": "dobbyxpress",
+    "storage_bucket": "dobbyxpress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741059753100:android:befcaa5986f44368c4f7a9",
+        "android_client_info": {
+          "package_name": "com.mycompany.dobbyxpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80NhRGGBtt7I9TB6WnMHf5_DsE1cnqY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

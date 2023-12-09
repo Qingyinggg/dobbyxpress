@@ -1,3 +1,7 @@
-# dobbyxpress
-This is repo for dobbyxpress.
-You may refer the codes in the second branch named as "flutterflow"
+# dobbyXpress
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
